@@ -1,29 +1,37 @@
-# A same page
+# A Simple Page
 
-This is my website Jekyll template. The website can be written in pure HTML and css; however, I ported it to Jekyll for easier maintenance.
-All layouts are in pure HTML with simple CSS.
+This is my Jekyll website template. While the site can be written in pure HTML and CSS, I ported it to Jekyll for easier maintenance.  
+All layouts are written in pure HTML with simple CSS.
 
-[Demo (links might not work properly)](https://khanhdang.github.io/sample-profile-page/).
+- [Demo #1 (links might not work properly)](https://khanhdang.github.io/sample-profile-page/)
+- [Demo #2 (links might not work properly)](https://e3computing.org/~test)
 
-Some features (or maybe not really features at all):
-- No menu just for simplicity
-- Mobile friendly with adaption
-- Lightweight 
+## Features
 
+- No menu (for simplicity)
+- Mobile-friendly and responsive
+- Lightweight
 
-## How to use
+## How to Use
 
-1. Visit the repository at [https://github.com/khanhdang/sample-profile-page](https://github.com/khanhdang/sample-profile-page)
-2. Fork it to a new repository (make it public)
-3. Edit the information in `_config.yml` and the page at `index.md`.
-4. In the repository, go to "Settings", then "Pages". Select the branch (default to main) to build GitHub page. Wait for 3-4 mins and refresh. The page URL will appear in the "Pages" section.
-5. Wait for github page to be built. Example is here: [https://khanhdang.github.io/sample-profile-page/](https://khanhdang.github.io/sample-profile-page/)
+1. Visit the repository:  
+   https://github.com/khanhdang/sample-profile-page
+2. Fork it to a new repository (make it public).
+3. Edit the information in `_config.yml` and the page `index.md`.
+4. In your repository, go to **Settings → Pages**.
+5. Select the branch (default: `main`) to enable GitHub Pages.
+6. Wait 3–4 minutes, then refresh. The page URL will appear in the Pages section.
+7. Example deployment:  
+   https://khanhdang.github.io/sample-profile-page/
+8. You can also upload it to a static hosting service:  
+   https://e3computing.org/~test
 
-## Run locally
+## Run Locally
 
-Jekyll and bundle need to be installed.
-```
-make run # to run the local website at 127.0.0.1:4000
-make build # to build the _site folder
-make clean # to clean up the repo
+Make sure Jekyll and Bundler are installed.
+
+```bash
+make run    # Run the local website at http://127.0.0.1:4000
+make build  # Build the _site folder
+make clean  # Clean up the repository
 ```
