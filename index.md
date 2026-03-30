@@ -13,7 +13,8 @@ Central Institute of Technology <br>
 Email: m.reinhardt@cit.edu <br>
 Office: Room 5B-214 <br>
 
-**Disclaimer:** This page contains fictional information and is for demonstration purposes only.  
+**Disclaimer:** This page contains fictional information and is for demonstration purposes only. <br>
+To use this template, please visit the repository: [https://github.com/khanhdang/sample-profile-page](https://github.com/khanhdang/sample-profile-page) for instructions on how to fork, edit, build, and deploy.  
 {: .announce }
 
 ---
