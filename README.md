@@ -3,7 +3,7 @@
 This is my Jekyll website template. While the site can be written in pure HTML and CSS, I ported it to Jekyll for easier maintenance.  
 All layouts are written in pure HTML with simple CSS.
 
-- [Demo #1 (links might not work properly)](https://khanhdang.github.io/sample-profile-page/)
+- [Demo #1 (links might not work properly)](https://khanhdang.github.io/simple-profile-page/)
 - [Demo #2 (links might not work properly)](https://e3computing.org/~test)
 
 ## Features
@@ -22,7 +22,7 @@ All layouts are written in pure HTML with simple CSS.
 5. Select the branch (default: `main`) to enable GitHub Pages.
 6. Wait 3–4 minutes, then refresh. The page URL will appear in the Pages section.
 7. Example deployment:  
-   https://khanhdang.github.io/sample-profile-page/
+   https://khanhdang.github.io/simple-profile-page/
 8. You can also upload it to a static hosting service:  
    https://e3computing.org/~test
 
